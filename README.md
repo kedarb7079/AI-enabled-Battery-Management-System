@@ -29,8 +29,6 @@
 
 ## Future work on Machine Learning Algorithms:
 - Polynomial Regression
-- Ridge Regression
-- Lasso Regression
 - ElasticNet Regression
 - Gradient Boosting Regression
 
@@ -38,4 +36,3 @@
 - Ideal Temperature of battery = 20°C - 35°C
     - Heater Function = Tempearture < 20°C---------> coolent heater Turned on.
 - Insect Trap = IR sensors senses disturbance------> Trapped
-- 
