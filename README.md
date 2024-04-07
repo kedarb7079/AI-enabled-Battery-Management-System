@@ -11,7 +11,7 @@
 4. Live data of BMS can be shared by adding a Gmail ID of any person or BMS ycompany.
 5. Companies can fetch data and they use for further improvement of BMS and their technologies.
 6. A .csv file of data values has been successfully obtained for further ML Model Training.
-7. 
+   
 
 ## All the queries of Judges Implemented Successfully:
 1. Some times even the .csv file shows the unusual patterns which are anonymous behavior. For concerning this data security issue we went with the Anomaly Detector. This will ensure to protect the data leakage and will also give the user a secure way to tackle with their data. 
