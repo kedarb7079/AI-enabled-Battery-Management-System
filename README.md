@@ -35,4 +35,4 @@
 ## Future work on Hardware Components:
 - Ideal Temperature of battery = 20°C - 35°C
     - Heater Function = Tempearture < 20°C---------> coolent heater Turned on.
-- Insect Trap = IR sensors senses disturbance------> Trapped
+- Insect Trap = IR sensors senses disturbance------> Trapped
